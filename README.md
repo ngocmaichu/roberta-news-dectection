@@ -1,5 +1,5 @@
 ## FAKE NEWS DETECTION
-
+LINK TO COLAB CODE: https://colab.research.google.com/drive/1Kz2G4NQdH_dc0ReoW-vjsWx6S5ui9zuG?usp=sharing
 This project fine-tunes a pre-trained RoBERTa model to classify fake vs. true news articles using Hugging Face's `transformers` library and PyTorch. The dataset used is derived from `Fake.csv` and `True.csv`.
 
 ## ROBERTA
